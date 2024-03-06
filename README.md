@@ -111,4 +111,4 @@ Estas validaciones se ejecutan cada vez que se hacen pull requests hacia `dev` o
 Al usar el repositorio acepta haber leído y aceptado lo indicado en el apartado **Modo de uso** del presente documento.
 
 ## Elementos aparte
-* (Link)[https://drive.google.com/file/d/1y68NxLFEZyJH_oX0SAxgdTVvwMGEx4JT/view?usp=sharing] a un video de demostración del proyecto en el área técnica.
+* [Link](https://drive.google.com/file/d/1y68NxLFEZyJH_oX0SAxgdTVvwMGEx4JT/view?usp=sharing) a un video de demostración del proyecto en el área técnica.
